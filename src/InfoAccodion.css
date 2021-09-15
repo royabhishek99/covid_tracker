@@ -1,0 +1,8 @@
+.info{
+    width: 100%;
+}
+.moreInfo {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
